@@ -1,4 +1,4 @@
-#Javascript Resources by Wix
+#Javascript Resources 
 Essential JavaScript resources for engineers who want to master JavaScript
 ##Introduction to JavaScript
 If you are a beginner in JavaScript, we highly recommend [Wix Academy's Introduction to Javascript page](https://github.com/wix/academy/wiki/Introduction-to-Javascript).
